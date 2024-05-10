@@ -1,0 +1,1 @@
+XAMPP > htdocs > localhost/folder
